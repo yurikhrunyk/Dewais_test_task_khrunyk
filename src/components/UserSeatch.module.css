@@ -1,0 +1,21 @@
+.userSearch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+}
+.title {
+  color: blueviolet;
+}
+.nameInput {
+  display: block;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.searchButton {
+  margin: 10px auto;
+  width: 206px;
+  border-radius: 5px;
+}
